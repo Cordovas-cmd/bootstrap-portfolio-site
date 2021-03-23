@@ -52,3 +52,24 @@ body {
     color: plum;
     -webkit-text-stroke: 1px rgb(32, 2, 32);
   }
+
+  #about {
+    text-align: center;
+    text-align:center;
+
+}
+.heading{
+    text-align:center;
+}
+#contact{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+#boxes{
+    align-items: center;
+    justify-content: center;
+}
